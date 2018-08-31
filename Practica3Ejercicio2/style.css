@@ -1,0 +1,48 @@
+table{
+    margin: 10px auto;
+}
+
+.principal table tr td{
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.principal table tr{
+    text-align: center;
+}
+
+#black{
+    background-color: black;
+    color:#ffffff;
+}
+
+tr td p{
+    width:90px;
+    height:90px;
+    visibility: hidden;
+    margin: 5px;
+    text-align: center;
+    padding: 15px;
+}
+
+tr td:hover p{
+    visibility: visible;
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 4em;
+}
+
+.foot{
+    margin: 10px auto;
+}
+
+footer table{
+    padding: 2em;
+}
