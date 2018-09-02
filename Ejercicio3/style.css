@@ -1,0 +1,130 @@
+input[type="button"]{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    border-radius: 6px;
+    margin:0.9em;
+    margin-left: 10px;
+    padding:0.6em 1em;
+}
+
+h1{
+    font-family: 'Tinos', serif;
+    font-size: 2.5rem;
+}
+
+h2{
+    font-family: 'Tinos', serif;
+    font-size: 2rem;
+}
+
+.tamano{
+    border: 0;
+    color: #575656;
+    background-color: whitesmoke;
+}
+
+#pequeno{
+    font-size: 0.8rem;
+}
+
+#grande{
+    font-size: 1.6rem;
+}
+
+.colores{
+    border: 0;
+    color: white;
+}
+
+#esmeralda{
+    background-color: #57d68d;
+}
+
+#cielo{
+    background-color: #5cace2;
+}
+
+#amatista{
+    background-color: #ae7ac4;
+}
+
+#asfalto{
+    background-color: #5c6d7e;
+}
+
+#topazio{
+    background-color: #ea974e;
+}
+
+#rubi{
+    background-color:#eb6f62;
+}
+
+.bordes{
+    background-color: white;
+}
+
+#simple{
+    color:#575656;
+    border: 1.5px solid #575656;
+}
+
+#esmerald{
+    color: #57d68d;
+    border: 1.5px solid #57d68d;
+}
+
+#ciel{
+    color: #5cace2;
+    border: 1.5px solid #5cace2;
+}
+
+#amatist{
+    color: #ae7ac4;
+    border: 1.5px solid #ae7ac4;
+}
+
+#asfalt{
+    color: #5c6d7e;
+    border: 1.5px solid #5c6d7e;
+}
+
+#topazi{
+    color: #ea974e;
+    border: 1.5px solid #ea974e;
+}
+
+#rub{
+    color:#eb6f62;
+    border: 1.5px solid #eb6f62;
+}
+
+.combi{
+    border: 0;
+}
+
+#largo{
+    font-size: 1.6rem;
+    color: white;
+    background-color: #5c6d7e;
+}
+
+#borde{
+    color: #5cace2;
+    border: 1.5px solid #5cace2;
+    background-color: white;
+}
+
+#peque{
+    color:white;
+    background-color: #57d68d;
+    font-size: 0.8rem;
+}
+
+#gran{
+    color:#eb6f62;
+    border: 1.5px solid #eb6f62;
+    background-color: white;
+    font-size: 1.6rem;
+}
